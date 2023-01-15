@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CPPTestPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE_Projects\CPP_Test\Intermediate\Build\Win64\CPP_TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE_Projects\CPP_Test\Plugins\CPPTestPlugin\Intermediate\Build\Win64\UE4Editor\Development\CPPTestPlugin\Module.CPPTestPlugin.cpp.obj"
+"C:\UE_Projects\CPP_Test\Plugins\CPPTestPlugin\Intermediate\Build\Win64\UE4Editor\Development\CPPTestPlugin\Module.CPPTestPlugin.gen.cpp.obj"
+"C:\UE_Projects\CPP_Test\Plugins\CPPTestPlugin\Intermediate\Build\Win64\UE4Editor\Development\CPPTestPlugin\Default.rc2.res"
+/OUT:"C:\UE_Projects\CPP_Test\Plugins\CPPTestPlugin\Intermediate\Build\Win64\UE4Editor\Development\CPPTestPlugin\UE4Editor-CPPTestPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_CPPTestPlugin

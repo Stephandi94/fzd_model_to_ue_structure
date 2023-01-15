@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CPPTestPlugin.cpp.obj": [
+			"CPPtester.cpp.obj",
+			"CPPTestPlugin.cpp.obj",
+			"OModel.cpp.obj"
+		],
+		"Module.CPPTestPlugin.gen.cpp.obj": [
+			"CPPtester.gen.cpp.obj",
+			"CPPTestPlugin.init.gen.cpp.obj"
+		]
+	}
+}
